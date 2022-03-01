@@ -1,1 +1,0 @@
-# First readme in 0x00-vegrant 
